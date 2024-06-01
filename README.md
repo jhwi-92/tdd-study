@@ -63,7 +63,9 @@ review/{주차}/{회고내용.md}
 ```
 | 태그 | 설명     |
 |:-----|:----------|
-| STUDY | 공부내용 |
+| STUDY | 공부 내용 |
+| ASSIGNMENT | 과제 내용 |
+| REVIEW | 회고록 내용 |
 | DOC | README.md와 같은 문서 수정 |
 | EDIT | 파일내용 수정 |
 | RENAME | 파일,폴더명 수정 혹은 이동 |
