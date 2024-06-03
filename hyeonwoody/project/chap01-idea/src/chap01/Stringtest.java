@@ -1,18 +1,13 @@
 package chap01;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 
-public class StringTest {
 
+public class Stringtest {
     @Test
-    void substring(){
+    void subString() {
         String str = "abcde";
-        System.out.println(str.substring(2,4));
-        assertEquals("cd",str.substring(2,4));
-
-
-
+        assertEquals("cd", str.substring(2,4));
     }
 }
